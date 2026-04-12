@@ -1,4 +1,5 @@
 Data Science & Analytics Portfolio
+
 This portfolio showcases my journey of applying **mathematical theories (Statistics, Linear Algebra, Optimization)** to solve real-world problems.
 I focus on deriving actionable insights through rigorous statistical analysis and machine learning models.
 
